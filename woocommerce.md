@@ -37,3 +37,16 @@
 - **WooCommerce Stripe-Gateway**  
   Akzeptiere mit Stripe Zahlungen per Kreditkarte in deinem Shop.  
   *Version 4.4.0 | Von WooCommerce*
+
+----
+
+## Google Merchant
+- **WP Product Feed Manager**  
+  Ein einfach zu bedienendes WordPress-Plugin, das Ihre Produktfeeds generiert und an Händlerzentren übermittelt.  
+  *Version 1.22.0 | Von Michel Jongbloed*
+- **WooCommerce Google Product Feed**  
+  Woocommerce extension that allows you to more easily populate advanced attributes into the Google Merchant Centre feed. 
+  *Version 5.2.1 | Von Lee Willis*
+- **Product Feed PRO for WooCommerce**
+  Configure and maintain your WooCommerce product feeds for Google Shopping, Facebook, Remarketing, Bing, Yandex, Comparison shopping websites and over a 100 channels more.  
+  *Version 8.1.6 | Von AdTribes.io*
