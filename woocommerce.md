@@ -1,14 +1,14 @@
-- **Checkout Field Editor for WooCommerce**
-Customize WooCommerce checkout fields(Add, Edit, Delete and re-arrange fields).
-Version 1.4.2 | Von ThemeHig
-- **mame Saferpay for WooCommerce**
-- **WooCommerce PDF Invoices & Packing Slips**
-- **WooCommerce Product Bundles**
-- **WooCommerce Product Search**
-- **WooCommerce Cart-Based Shipping**
-- **Mailchimp for WooCommerce** 
-Connects WooCommerce to Mailchimp to sync your store data, send targeted campaigns to your customers, and sell more stuff.
-Version 2.4.0 | Von Mailchimp
+- **Checkout Field Editor for WooCommerce**   
+  Customize WooCommerce checkout fields(Add, Edit, Delete and re-arrange fields).  
+  *Version 1.4.2 | Von ThemeHig.* 
+- **mame Saferpay for WooCommerce**  
+- **WooCommerce PDF Invoices & Packing Slips**  
+- **WooCommerce Product Bundles**  
+- **WooCommerce Product Search**  
+- **WooCommerce Cart-Based Shipping**  
+- **Mailchimp for WooCommerce**  
+  Connects WooCommerce to Mailchimp to sync your store data, send targeted campaigns to your customers, and sell more stuff.
+*Version 2.4.0 | Von Mailchimp*
 - **Woo Discount Rules** 
 Simple to complex discount rules for your WooCommerce store. Core package.
 Version 1.9.9 | Von Flycart Technologies LLP
