@@ -1,26 +1,21 @@
-- Checkout Field Editor for WooCommerce
+- *Checkout Field Editor for WooCommerce*
 Customize WooCommerce checkout fields(Add, Edit, Delete and re-arrange fields).
-Version 1.4.2 | Von ThemeHigh | Details ansehen
-- mame Saferpay for WooCommerce
-- WooCommerce PDF Invoices & Packing Slips
+Version 1.4.2 | Von ThemeHig
+- *mame Saferpay for WooCommerce*
+- *WooCommerce PDF Invoices & Packing Slips*
 - WooCommerce Product Bundles
 - WooCommerce Product Search
 - WooCommerce Cart-Based Shipping
-- Mailchimp for WooCommerce
+- *Mailchimp for WooCommerce* 
 Connects WooCommerce to Mailchimp to sync your store data, send targeted campaigns to your customers, and sell more stuff.
-Version 2.4.0 | Von Mailchimp | Details ansehen
-- Woo Discount Rules
-Settings | Deaktivieren
+Version 2.4.0 | Von Mailchimp
+- *Woo Discount Rules* 
 Simple to complex discount rules for your WooCommerce store. Core package.
-
-Version 1.9.9 | Von Flycart Technologies LLP | Details ansehen
-WooCommerce - Country Based Payments
-Opt Out | Deaktivieren
+Version 1.9.9 | Von Flycart Technologies LLP
+- *WooCommerce - Country Based Payments* 
 Choose in which country certain payment gateway will be available
-
-Version 1.3.1 | Von Ivan Paulin | Details ansehen
-WooCommerce Extended Coupon Features FREE auswählen	
-WooCommerce Extended Coupon Features FREE
+Version 1.3.1 | Von Ivan Paulin
+- *WooCommerce Extended Coupon Features FREE*
 Einstellungen | Deaktivieren
 Additional functionality for WooCommerce Coupons.
 
