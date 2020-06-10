@@ -37,6 +37,25 @@
 - **WooCommerce Stripe-Gateway**  
   Akzeptiere mit Stripe Zahlungen per Kreditkarte in deinem Shop.  
   *Version 4.4.0 | Von WooCommerce*
+- **Facebook for WooCommerce**  
+  Grow your business on Facebook! Use this official plugin to help sell more of your products using Facebook. After completing the setup, you'll be ready to create ads that promote your products and you can also create a shop section on your Page where customers can browse your products on Facebook.  
+  *Version 1.11.4 | Von Facebook*
+
+- **Product Sales Report Pro for WooCommerce**  
+  Generates a report on individual WooCommerce products sold during a specified time period.  
+  *Version 2.1.17 | Von Potent Plugins*
+
+- **WooCommerce Extra Charges To Payment Gateway (Standard)** 
+  You can add extra fee for any payment gateways  
+  *Version 1.0.12.9 | Von hemsingh1*
+
+- **WordPress Users & WooCommerce Customers Import Export**  
+  Export and Import User/Customers details From and To your WordPress/WooCommerce.  
+  *Version 1.3.7 | Von WebToffee | Plugin-Seite aufrufen*
+
+- **WPFront Notification Bar**  
+  Easily lets you create a bar on top or bottom to display a notification.
+  *Version 1.7.1 | Von Syam Mohan*
 
 ----
 
